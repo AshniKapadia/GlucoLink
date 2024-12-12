@@ -1,3 +1,11 @@
+
+
+
+
+![Glucolinkpic](https://github.com/user-attachments/assets/74837e04-30a2-4378-805b-f1675031aa21)
+
+
+
 # GlucoLink
 Revolutionizing diabetes care by advancing glucose monitoring software and delivering real-time critical alerts to empower global healthcare.
 
