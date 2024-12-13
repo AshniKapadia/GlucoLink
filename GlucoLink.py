@@ -248,7 +248,6 @@ try:
     from fetchai.ledger.agent import Agent
     import requests  # Used for web scraping functionality
 
-    # Placeholder Fetch.ai Web Scraper Agent
     class WebScraperAgent(Agent):
         def __init__(self):
             super().__init__(Entity())
@@ -263,21 +262,17 @@ try:
                 response = requests.get(url)
                 if response.status_code == 200:
                     print(f"Successfully scraped content from {url}")
-                    # Print a portion of the HTML for demo purposes
-                    print(response.text[:100])  # First 100 characters of the HTML
+                    print(response.text[:100])  
                 else:
                     print(f"Failed to scrape {url}, Status Code: {response.status_code}")
             except Exception as e:
                 print(f"Error occurred while scraping {url}: {e}")
 
-    # Example usage
     if __name__ == "__main__":
         agent = WebScraperAgent()
         print("Web Scraper Agent is idle.")  # Placeholder idle state message
 
-        # Uncomment to test scraping functionality once a website is provided
-        # agent.scrape_website("https://example.com")
-
+        
 except ModuleNotFoundError as e:
     # Skip Fetch.ai-related code if the module is not installed
     print("Fetch.ai module not found. Skipping Fetch.ai functionality.")
