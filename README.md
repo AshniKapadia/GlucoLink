@@ -1,10 +1,12 @@
 
 --> Submission for the AI Summit NYC Hackathon @ Javits Center on Dec 11-12
+
 --> Achieved Honorable Mention (4th Place)
+
 --> Pitch Deck: https://pitch.com/v/pitch-deck-for-glucolink-fudwj4
 
+<img src="https://github.com/user-attachments/assets/74837e04-30a2-4378-805b-f1675031aa21" alt="Alt Text" width="600" height="600">
 
-![Glucolinkpic](https://github.com/user-attachments/assets/74837e04-30a2-4378-805b-f1675031aa21)
 
 
 
