@@ -1,5 +1,7 @@
 
-
+--> Submission for the AI Summit NYC Hackathon @ Javits Center on Dec 11-12
+--> Achieved Honorable Mention (4th Place)
+--> Pitch Deck: https://pitch.com/v/pitch-deck-for-glucolink-fudwj4
 
 
 ![Glucolinkpic](https://github.com/user-attachments/assets/74837e04-30a2-4378-805b-f1675031aa21)
@@ -15,3 +17,5 @@ Glucolink was created to address a critical gap in diabetes care—making sure p
 The project began with a clear mission: to create a tool that doesn’t just monitor glucose levels but actively helps save lives. We started by defining thresholds for when alerts should trigger and tested them thoroughly to ensure accuracy. From there, we developed a platform that connects CGM devices to EMS networks, using secure data processing and real-time communication tools. After multiple iterations and refinements, Glucolink emerged as a reliable system that reduces the burden on patients, speeds up emergency responses, and improves care for people managing diabetes.
 
 *Currently using a static datafile as Dexcom API access was blocked during Hackathon duration
+
+
