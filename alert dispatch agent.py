@@ -7,7 +7,7 @@ class AlertMessage(Model):
     glucose_value: float
     alert_type: str  # "critical_high" or "critical_low"
 
-# Initialize the dispatch agent (replace with your own seed keys if needed)
+# Initialize the dispatch agent 
 dispatch_agent = Agent(
     name="dispatch_agent",
     seed="my_private_key_seed"
