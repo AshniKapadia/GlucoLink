@@ -9,8 +9,6 @@ critical_high = 250
 # Read the Excel file
 df = pd.read_excel(excel_file)
 
-# We'll assume PtID is the patient identifier
-# and GlucoseValue is the glucose reading column
 patients = df[['PtID', 'GlucoseValue']]
 
 # Identify critical patients
